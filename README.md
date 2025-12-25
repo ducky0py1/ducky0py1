@@ -1,17 +1,22 @@
-<h1 align="center">Hello , I'm Zaineb LRS</h1>
+<div align="center">
+  
+# 🌌 Hello, I'm Zaineb LRS 🌌
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Databases;Cybersecurity+%26+Blockchain+Enthusiast;Always+Learning+New+Technologies" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F29CDE&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Databases+%F0%9F%92%BB;Cybersecurity+%26+Blockchain+Enthusiast+%F0%9F%94%90;Always+Learning+New+Technologies+%E2%AD%90" alt="Typing SVG" />
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
 ##  About Me
 
-- 🎓 Full Stack Web Development student  
--  Strong interest in **Web Technologies, Cybersecurity & Blockchain**  
--  Passionate about **electronics, embedded systems, and hardware repair**  
--  Constantly improving my skills through projects and self-learning  
+- 🎓 Full Stack Web Development student exploring the digital universe
+-  Strong interest in **Web Technologies, Cybersecurity & Blockchain**
+-  Passionate about **electronics, embedded systems, and hardware repair**
+-  Constantly improving my skills through projects and self-learning
+-  Building tomorrow's solutions, one commit at a time
 
 ---
 
@@ -19,83 +24,80 @@
 
 ###  Programming & Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,java,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,java,c&theme=dark" />
 </p>
 
 ###  Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </p>
-- SQL Server  
-- NoSQL & Relational Databases  
+
+- SQL Server
+- NoSQL & Relational Databases
 
 ###  Security & Authentication
-- JWT (JSON Web Token) Authentication  
+- JWT (JSON Web Token) Authentication
 
 ###  Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman&theme=dark" />
 </p>
-- Cypress  
-- StarUML  
 
-### 🌐 Networking Fundamentals
-- TCP/IP  
-- DNS, DHCP  
-- LAN / WAN  
+- Cypress
+- StarUML
+
+###  Networking Fundamentals
+- TCP/IP
+- DNS, DHCP
+- LAN / WAN
 
 ###  Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
 </p>
-- Ubuntu  
-- Kali Linux  
 
-###  Project Management & Design
-- Scrum (Agile)  
-- Jira  
-- UML, Merise  
-- Figma  
+- Ubuntu
+- Kali Linux
+
+### Project Management & Design
+- Scrum (Agile)
+- Jira
+- UML, Merise
+- Figma
 
 ---
 
 ##  Languages
 
-- 🇲🇦 Arabic — Proficient  
-- 🇬🇧 English — Upper-Intermediate  
-- 🇫🇷 French — Intermediate  
-- 🇩🇪 German — Beginner  
+- 🇲🇦 **Arabic** — Proficient
+- 🇬🇧 **English** — Upper-Intermediate
+- 🇫🇷 **French** — Intermediate
+- 🇩🇪 **German** — Beginner
 
 ---
 
 ##  Interests
 
-- 🛡️ Cybersecurity  
-- ⛓️ Blockchain Technologies  
-- 🔌 Electronics & Embedded Systems (Arduino, Raspberry Pi Pico)  
-- 🔧 Electronic Device Repair (soldering, component replacement, cleaning)  
+- 🛡️ Cybersecurity
+- ⛓️ Blockchain Technologies
+- Electronics & Embedded Systems (Arduino, Raspberry Pi Pico)
+- 🔧 Electronic Device Repair (soldering, component replacement, cleaning)
 
 ---
+
 
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ducky0py1&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducky0py1&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ducky0py1&theme=radical" alt="GitHub Streak" />
 </p>
 
----
+  
+###  *"In the vast galaxy of code, every bug is a star waiting to be discovered"* ^ ^
 
-##  Connect With Me
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+</div>
