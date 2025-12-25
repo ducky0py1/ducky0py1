@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F29CDE&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Databases+%F0%9F%92%BB;Cybersecurity+%26+Blockchain+Enthusiast+%F0%9F%94%90;Always+Learning+New+Technologies+%E2%AD%90" alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 
 </div>
 
@@ -84,8 +84,9 @@
 - 🔧 Electronic Device Repair (soldering, component replacement, cleaning)
 
 ---
-
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 ##  GitHub Stats
 
 <p align="center">
