@@ -90,10 +90,10 @@
 
 ##  GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ducky0py1&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducky0py1&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ducky0py1&theme=radical" alt="GitHub Streak" />
@@ -106,7 +106,7 @@
   <a href="https://github.com/ducky0py1">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9D4EDD" alt="GitHub" />
   </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
+  <a href="https://www.facebook.com/sakura.ju8">
     <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=9D4EDD" alt="Facebook" />
   </a>
 </p>
