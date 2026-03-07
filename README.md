@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌌 Hello, I'm Zaineb LRS 🌌
+# 🌌 Hello, I'm Zaineb 🌌
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F29CDE&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Databases+%F0%9F%92%BB;Cybersecurity+%26+Blockchain+Enthusiast+%F0%9F%94%90;Always+Learning+New+Technologies+%E2%AD%90" alt="Typing SVG" />
 
